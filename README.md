@@ -6,7 +6,7 @@
 
 🌱 I’m currently learning
 
-`React.js` `Redux` 
+`React.js`
 
 
 ⚡ Career
