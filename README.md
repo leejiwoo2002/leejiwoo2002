@@ -17,7 +17,7 @@
 
 `2020 Naver Boostcamp 챌린지 과정 수료`
 
-`2020 Naver Boostcamp 멤버쉽 과정 참여중`
+`2020 Naver Boostcamp 멤버쉽 과정 수료`
 
 
 <!--
