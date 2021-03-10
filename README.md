@@ -1,11 +1,11 @@
 ### FE 개발자가 되고싶은 학생입니다
 🔭 I’m currently working on
 
-[`리그오브레전드 전적검색 사이트`](http://nggg.kro.kr/)
+[`애플 공식홈페이지 클론코딩`](http://jiwooapple.kro.kr/)
 
 🌱 I’m currently learning
 
-`React.js`
+`React.js`, `Recoil`, `반응형 디자인`
 
 
 ⚡ Career
