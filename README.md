@@ -1,7 +1,7 @@
 ### FE 개발자가 되고싶은 학생입니다
 🔭 I’m currently working on
 
-[`애플 공식홈페이지 클론코딩`](http://jiwooapple.kro.kr/)
+[`애플 공식홈페이지 클론코딩`](https://github.com/leejiwoo2002/appleHomepage)
 
 🌱 I’m currently learning
 
