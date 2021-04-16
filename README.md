@@ -1,4 +1,3 @@
-### FE 개발자가 되고싶은 학생입니다
 🔭 I’m currently working on
 
 [`노리코리아`](https://knowre.co.kr/) `Web Front-end Developer`
