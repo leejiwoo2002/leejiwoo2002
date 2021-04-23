@@ -1,4 +1,4 @@
-🔭 I’m currently working on
+🔭 I’m currently working for
 
 [`노리코리아`](https://knowre.co.kr/) `Web Front-end Developer`
 
