@@ -2,11 +2,6 @@
 
 [`노리코리아`](https://knowre.co.kr/) `Web Front-end Developer`
 
-🌱 I’m currently learning
-
-`React.js`, `Recoil`, `반응형 디자인` : [`애플 공식홈페이지 클론코딩`](https://github.com/leejiwoo2002/appleHomepage)
-
-`Vue.js` : [`Resume 페이지 만들기`](https://github.com/leejiwoo2002/vue-practice/settings)
 
 ⚡ Career
 
