@@ -1,7 +1,5 @@
 🔭 I’m currently working for
 
-[`노리코리아`](https://knowre.co.kr/) `Web Front-end Developer`
-
 
 ⚡ Career
 
@@ -13,6 +11,8 @@
 
 `2020 Naver Boostcamp 멤버쉽 과정 수료`
 - [`가계부 서비스 만들기`](https://github.com/boostcamp-2020/Project16-E-Account-Book)
+
+2021 ~ 2022 : [`노리코리아`](https://knowre.co.kr/) `Web Front-end Developer`
 
 
 <!--
