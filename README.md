@@ -1,5 +1,7 @@
 🔭 I’m currently working for
 
+[`채널코퍼레이션`](https://channel.io/) `Web Front-end Developer`
+
 
 ⚡ Career
 
